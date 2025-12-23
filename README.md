@@ -11,6 +11,7 @@ Soy profesional en Ingeniería Ambiental con interés en:
 - Análisis de datos aplicados a indicadores ambientales
 - Reportes y métricas ESG
 - Proyectos con impacto real y cuantificable
+- Cambio climático
 
 
 ---
