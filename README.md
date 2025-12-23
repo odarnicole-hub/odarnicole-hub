@@ -1,17 +1,17 @@
 # Nicole Angie Odar Jauregui 🌱
 
-Ingeniera Ambiental con experiencia en gestión ambiental, proyectos comunitarios y voluntariados en sostenibilidad y cambio climático.  
-Actualmente fortaleciendo competencias en **ESG, sostenibilidad y ciencia de datos**, con enfoque en el uso de herramientas digitales para la toma de decisiones ambientales.
+Soy Ingeniera Ambiental enfocada en aplicar **análisis de datos y herramientas digitales** a problemáticas ambientales, sostenibilidad y ESG.
 
 ---
 
-## 🌍 Áreas de interés
-- Gestión ambiental y sostenibilidad
-- Cambio climático (mitigación y adaptación)
-- ESG y reporting de sostenibilidad
-- Análisis de datos aplicados al ambiente
-- Educación ambiental y acción climática
-- Proyectos comunitarios y políticas públicas ambientales
+## Acerca de mí
+
+Soy profesional en Ingeniería Ambiental con interés en:
+- Gestión ambiental y sostenibilidad técnica
+- Análisis de datos aplicados a indicadores ambientales
+- Reportes y métricas ESG
+- Proyectos con impacto real y cuantificable
+
 
 ---
 
@@ -32,7 +32,6 @@ Me encuentro en formación en **ciencia de datos y análisis**, aplicando herram
 - Proyectos socioambientales
 
 **Datos y herramientas digitales**
-- Python (en formación)
 - Power BI (básico)
 - Tableau (básico)
 - ArcGIS (básico)
