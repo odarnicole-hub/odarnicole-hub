@@ -40,15 +40,6 @@ Me encuentro en formación en **ciencia de datos y análisis**, aplicando herram
 
 ---
 
-## 📌 Proyectos (en desarrollo)
-Este repositorio incluirá:
-- Análisis exploratorios de datos ambientales
-- Casos prácticos de indicadores ESG
-- Visualizaciones para proyectos de sostenibilidad
-- Ejercicios aplicados de ciencia de datos con enfoque ambiental
-
----
-
 ## 🌱 Experiencia complementaria
 - Voluntaria en proyectos de sostenibilidad y acción climática
 - Investigación ambiental (microplásticos – enfoque One Health)
