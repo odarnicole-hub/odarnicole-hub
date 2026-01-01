@@ -38,13 +38,6 @@ Me encuentro en formación en **ciencia de datos y análisis**, aplicando herram
 - ArcGIS (básico)
 - Excel / Microsoft Office (intermedio)
 
----
-
-## 🌱 Experiencia complementaria
-- Voluntaria en proyectos de sostenibilidad y acción climática
-- Investigación ambiental (microplásticos – enfoque One Health)
-- Coordinación de incidencia climática (LCOY Perú 2025)
-- Programa de Voluntariado Ambiental – MINAM
 
 ---
 
